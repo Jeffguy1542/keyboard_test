@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 10)
+    (drawings 16)
     (tracks 157)
     (zones 0)
     (modules 24)
@@ -1204,6 +1204,12 @@
     )
   )
 
+  (gr_poly (pts (xy 27.94 57.277) (xy 24.511 57.277) (xy 24.511 47.498) (xy 27.94 47.498)) (layer F.Cu) (width 0.1))
+  (gr_poly (pts (xy 27.78125 57.15) (xy 26.19375 57.15) (xy 27.78125 55.5625)) (layer F.Mask) (width 0.1))
+  (gr_poly (pts (xy 24.60625 49.2125) (xy 24.60625 47.625) (xy 26.19375 47.625)) (layer F.Mask) (width 0.1))
+  (gr_poly (pts (xy 26.19375 53.975) (xy 24.60625 55.5625) (xy 24.60625 52.3875)) (layer F.Mask) (width 0.1))
+  (gr_poly (pts (xy 27.78125 52.3875) (xy 26.19375 50.8) (xy 27.78125 49.2125)) (layer F.Mask) (width 0.1))
+  (gr_poly (pts (xy 27.78125 48.41875) (xy 25.4 50.8) (xy 27.78125 53.18125) (xy 27.78125 54.76875) (xy 25.4 57.15) (xy 24.60625 57.15) (xy 24.60625 56.35625) (xy 26.9875 53.975) (xy 24.60625 51.59375) (xy 24.60625 50.00625) (xy 26.9875 47.625) (xy 27.78125 47.625)) (layer F.SilkS) (width 0.1))
   (gr_text Rev.1 (at 42.164 49.276) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
